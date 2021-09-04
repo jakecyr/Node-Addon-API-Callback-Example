@@ -1,6 +1,6 @@
-# Node Addon API Thread Safe Callback Example
+# Node Addon API Thread Safe Callback Example (C++)
 
-Example of how to save a JavaScript function for later use and call it on the main thread.
+Example of how to save a JavaScript function for later use and call it on the main thread with Node Addon API (C++).
 
 ## Setup
 
