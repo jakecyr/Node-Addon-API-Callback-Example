@@ -2,6 +2,8 @@
 
 Example of how to save a JavaScript function for later use and call it on the main thread with Node Addon API (C++).
 
+For a better description, checkout my [Medium Article](https://jakecyr.medium.com/saving-javascript-callbacks-with-node-addon-api-3c6e804aa367).
+
 ## Setup
 
 1. Run `npm install`
