@@ -1,0 +1,10 @@
+# Node Addon API Thread Safe Callback Example
+
+Example of how to save a JavaScript function for later use and call it on the main thread.
+
+## Setup
+
+1. Run `npm install`
+2. Run `npm configure` to configure node-gyp for the project
+3. Run `npm run build` to build the Node addon
+4. Run the example with `node example.js`
